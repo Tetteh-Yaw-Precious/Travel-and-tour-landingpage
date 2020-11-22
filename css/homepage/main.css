@@ -150,4 +150,51 @@ a:hover {
 .secondhr .two {
   margin-top: 0.1rem;
 }
+
+.wt-Ghana {
+  margin-left: 3rem;
+  margin-top: 1rem;
+  font-size: 1.7rem;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+.thirdhr {
+  margin-top: 0.5rem;
+  margin-right: 59rem;
+  margin-left: 3rem;
+}
+
+.thirdhr hr {
+  border-color: #00FF22;
+}
+
+.thirdhr .two {
+  margin-top: 0.1rem;
+}
+
+.main-text {
+  margin-left: 3rem;
+  margin-top: 1.4rem;
+  font-size: 1.5rem;
+  font-family: monospace;
+}
+
+.explore {
+  color: white;
+  margin-left: 8rem;
+  margin-right: 68rem;
+  margin-top: 2rem !important;
+  text-align: center;
+}
+
+.explore a {
+  color: white;
+  text-decoration: none;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  border-radius: 1.3rem;
+  background: black;
+  padding: .6rem 2rem;
+  height: 100%;
+  width: 100% !important;
+}
 /*# sourceMappingURL=main.css.map */
