@@ -10,8 +10,8 @@
 main {
   background-image: url("/assets/homepage/banner.svg");
   width: 100%;
-  height: 100vh;
-  background-size: cover;
+  height: 110vh;
+  background-size: 100%;
   background-repeat: no-repeat;
 }
 
@@ -87,7 +87,8 @@ nav {
   border-color: #00FF22;
 }
 
-.active, a:hover {
+.active,
+a:hover {
   border-bottom: 2px solid yellow;
   border-radius: 0.2rem;
   border-bottom: 2px solid yellow !important;
@@ -115,4 +116,38 @@ nav {
 }
 
 /*main and navbar*/
+.firsthr {
+  margin-top: 3rem;
+  margin-right: 57rem;
+  margin-left: 3rem;
+}
+
+.firsthr hr {
+  border-color: red;
+}
+
+.firsthr .two {
+  margin-top: 0.1rem;
+}
+
+.akwaaba {
+  margin-left: 3rem;
+  font-size: 5.3rem;
+  font-family: 'Courier New', Courier, monospace;
+  font-weight: 800;
+}
+
+.secondhr {
+  margin-top: 0.5rem;
+  margin-right: 18rem;
+  margin-left: 3rem;
+}
+
+.secondhr hr {
+  border-color: yellow;
+}
+
+.secondhr .two {
+  margin-top: 0.1rem;
+}
 /*# sourceMappingURL=main.css.map */
